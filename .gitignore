@@ -1,0 +1,8 @@
+# Pycharm設定ディレクトリを無視
+.idea/
+# .pycファイルの無視
+*.pyc
+# test.pyファイルの除外
+test.py
+
+test_img.jpg
